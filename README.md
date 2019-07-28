@@ -7,7 +7,6 @@ Banksy in us is a project that prints out a holiday theme postcard with a photo 
 By face recognition, users are encouraged to make funny faces that match popular gif images.<br>
 
 When the app takes a photo image, users can make a postcard image that looks like Banksy graffitis.<br>
-
 The final selected postcard image is also printed out as a souvenir, and it can be uploaded to Instagram account if they agree with.<br>
 
 <h2>System<br></h2>
